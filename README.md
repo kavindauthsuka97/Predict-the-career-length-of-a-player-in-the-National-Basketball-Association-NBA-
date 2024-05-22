@@ -1,0 +1,2 @@
+# Predict-the-career-length-of-a-player-in-the-National-Basketball-Association-NBA-
+The National Basketball Association (NBA) is of the popular league in North America. The analysis was  built models and found a best model to predict if a player will last five years in the NBA. The career  experience is based on different factors for any players. This analysis was taken the target variable as ‘Target_5Yrs’ and it’s a binary  one
